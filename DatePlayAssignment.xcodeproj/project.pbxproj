@@ -12,6 +12,7 @@
 		1D11DFAB1F59A3160062D66E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D11DFA91F59A3160062D66E /* Main.storyboard */; };
 		1D11DFAD1F59A3160062D66E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D11DFAC1F59A3160062D66E /* Assets.xcassets */; };
 		1D11DFB01F59A3160062D66E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D11DFAE1F59A3160062D66E /* LaunchScreen.storyboard */; };
+		1D11DFB81F5A0B4A0062D66E /* ProfileRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D11DFB71F5A0B4A0062D66E /* ProfileRequest.swift */; };
 		7536F241BBF9E992A8DD725B /* Pods_DatePlayAssignment.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B57D08258132564A236E1AA8 /* Pods_DatePlayAssignment.framework */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		1D11DFAC1F59A3160062D66E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D11DFAF1F59A3160062D66E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D11DFB11F59A3160062D66E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D11DFB71F5A0B4A0062D66E /* ProfileRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileRequest.swift; sourceTree = "<group>"; };
 		485421763CC7745065A9165B /* Pods-DatePlayAssignment.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DatePlayAssignment.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DatePlayAssignment/Pods-DatePlayAssignment.debug.xcconfig"; sourceTree = "<group>"; };
 		9FCF08922CCFF48C21A67C72 /* Pods-DatePlayAssignment.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DatePlayAssignment.release.xcconfig"; path = "Pods/Target Support Files/Pods-DatePlayAssignment/Pods-DatePlayAssignment.release.xcconfig"; sourceTree = "<group>"; };
 		B57D08258132564A236E1AA8 /* Pods_DatePlayAssignment.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DatePlayAssignment.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				1D11DFA51F59A3160062D66E /* AppDelegate.swift */,
+				1D11DFB71F5A0B4A0062D66E /* ProfileRequest.swift */,
 				1D11DFA71F59A3160062D66E /* ViewController.swift */,
 				1D11DFA91F59A3160062D66E /* Main.storyboard */,
 				1D11DFAC1F59A3160062D66E /* Assets.xcassets */,
@@ -214,6 +217,7 @@
 			files = (
 				1D11DFA81F59A3160062D66E /* ViewController.swift in Sources */,
 				1D11DFA61F59A3160062D66E /* AppDelegate.swift in Sources */,
+				1D11DFB81F5A0B4A0062D66E /* ProfileRequest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -379,6 +383,7 @@
 				1D11DFB61F59A3160062D66E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

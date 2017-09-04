@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatePlayAssignment/ViewController.swift"
+            timestampString = "526239087.120763"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "fetchProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DatePlayAssignment.ViewController.(fetchProfile () -&gt; ()).(closure #1)"
+                  moduleName = "DatePlayAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Rick/Desktop/datePlay/datePlayAssignment/DatePlayAssignment/DatePlayAssignment/ViewController.swift"
+                  timestampString = "526249826.423031"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2342">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DatePlayAssignment.ViewController.(fetchProfile () -&gt; ()).(closure #1)"
+                  moduleName = "DatePlayAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Rick/Desktop/datePlay/datePlayAssignment/DatePlayAssignment/DatePlayAssignment/ViewController.swift"
+                  timestampString = "526249826.424628"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "7181">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatePlayAssignment/ViewController.swift"
+            timestampString = "526239090.824699"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "fetchProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DatePlayAssignment.ViewController.(fetchProfile () -&gt; ()).(closure #1)"
+                  moduleName = "DatePlayAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Rick/Desktop/datePlay/datePlayAssignment/DatePlayAssignment/DatePlayAssignment/ViewController.swift"
+                  timestampString = "526249826.433876"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "3883">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DatePlayAssignment.ViewController.(fetchProfile () -&gt; ()).(closure #1)"
+                  moduleName = "DatePlayAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Rick/Desktop/datePlay/datePlayAssignment/DatePlayAssignment/DatePlayAssignment/ViewController.swift"
+                  timestampString = "526249826.43546"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "7189">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
